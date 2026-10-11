@@ -51,3 +51,28 @@ strong{
     align-items: center;
     gap: 20px;
 }
+ol{
+    padding-left: 20px;
+}
+.gallery ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+.gallery li {
+    text-align: center;
+    background-color: #08afec;
+    padding: 15px;
+    border-radius: 8px;
+    overflow: hidden;
+    width: 2000px;
+}
+.gallery img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+}
