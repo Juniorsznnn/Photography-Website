@@ -6,7 +6,7 @@ body {
     padding: 0;
 }
 
-.header, .bio, .list, .gallery, .contact, .reach {
+.header, .bio, .list, .gallery, .contact, .reach, .navigation {
    max-width: 800px;
    margin: 25px auto;
 border:1px solid #ccc;
