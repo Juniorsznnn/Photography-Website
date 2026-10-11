@@ -46,3 +46,8 @@ strong{
     margin: 0 auto 20px;
     object-fit: cover;
 }
+.bio-image{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
