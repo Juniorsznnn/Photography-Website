@@ -26,3 +26,9 @@ To view this project locally on your machine:
 ## Author
 **James**
 * GitHub: [@Juniorsznnn](https://github.com/Juniorsznnn)
+
+## Live Demo
+View the live weebsite here: [https://juniorsznnn.github.io/Photography-Website/](https://juniorsznnn.github.io/Photography-Website/)
+
+## License
+This project is licensed under the MIT License.
